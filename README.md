@@ -31,4 +31,4 @@ Example:
 ## Author
 
 Sri Devan Appasamy
-EMBL-EBI
+Bioinformatician,EMBL-EBI (PDBe)
